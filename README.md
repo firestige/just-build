@@ -5,9 +5,11 @@
 ## 页面
 
 - 首页：`https://firestige.github.io/just-build/`
+- 购买与订阅说明：`https://firestige.github.io/just-build/purchases.html`
 - 隐私政策：`https://firestige.github.io/just-build/privacy.html`
 - 支持页：`https://firestige.github.io/just-build/support.html`
 - English home: `https://firestige.github.io/just-build/en/`
+- English purchases and subscription: `https://firestige.github.io/just-build/en/purchases.html`
 - English privacy policy: `https://firestige.github.io/just-build/en/privacy.html`
 - English support: `https://firestige.github.io/just-build/en/support.html`
 - 支持邮箱：`support@firestige.xyz`
