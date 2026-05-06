@@ -7,6 +7,9 @@
 - 首页：`https://firestige.github.io/just-build/`
 - 隐私政策：`https://firestige.github.io/just-build/privacy.html`
 - 支持页：`https://firestige.github.io/just-build/support.html`
+- English home: `https://firestige.github.io/just-build/en/`
+- English privacy policy: `https://firestige.github.io/just-build/en/privacy.html`
+- English support: `https://firestige.github.io/just-build/en/support.html`
 - 支持邮箱：`support@firestige.xyz`
 
 支持页中的邮件入口会预填反馈模板，并固定包含 `App: 筑造 (just-build)` 与 `Bundle ID: xyz.firestige.justbuild`，用于区分用户来自哪个 App。
